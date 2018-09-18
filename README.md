@@ -1,5 +1,7 @@
 # Get Link
 
+### Intastall
+> npm install
 
 ### Run
 > npm run ios
