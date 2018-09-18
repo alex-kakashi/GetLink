@@ -1,6 +1,6 @@
 # Get Link
 
-### Intastall
+### Install
 > npm install
 
 ### Run
