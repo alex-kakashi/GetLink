@@ -1,7 +1,7 @@
-## Get Link
+# Get Link
 
 
-# Run
+### Run
 > npm run ios
 
 Click 'Answer' button to show answer.
